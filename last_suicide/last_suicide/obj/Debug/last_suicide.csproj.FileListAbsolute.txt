@@ -1,0 +1,11 @@
+C:\Users\Аня\source\repos\last_suicide\last_suicide\bin\Debug\last_suicide.exe.config
+C:\Users\Аня\source\repos\last_suicide\last_suicide\bin\Debug\last_suicide.exe
+C:\Users\Аня\source\repos\last_suicide\last_suicide\bin\Debug\last_suicide.pdb
+C:\Users\Аня\source\repos\last_suicide\last_suicide\obj\Debug\last_suicide.csprojAssemblyReference.cache
+C:\Users\Аня\source\repos\last_suicide\last_suicide\obj\Debug\last_suicide.Form1.resources
+C:\Users\Аня\source\repos\last_suicide\last_suicide\obj\Debug\last_suicide.Properties.Resources.resources
+C:\Users\Аня\source\repos\last_suicide\last_suicide\obj\Debug\last_suicide.csproj.GenerateResource.cache
+C:\Users\Аня\source\repos\last_suicide\last_suicide\obj\Debug\last_suicide.csproj.CoreCompileInputs.cache
+C:\Users\Аня\source\repos\last_suicide\last_suicide\obj\Debug\last_suicide.exe
+C:\Users\Аня\source\repos\last_suicide\last_suicide\obj\Debug\last_suicide.pdb
+C:\Users\Аня\source\repos\last_suicide\last_suicide\obj\Debug\last_suicide.Registration.resources
